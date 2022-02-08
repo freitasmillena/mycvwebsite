@@ -940,6 +940,7 @@ img{
 
     .about__container{
         column-gap: 5rem;
+        margin-left: 50rem;
     }
 
     .about__description{
@@ -947,7 +948,7 @@ img{
     }
 
     .about__buttons{
-        justify-content: initial;
+        justify-content: center;
     }
 
     .education__sections{
