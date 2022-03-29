@@ -375,8 +375,8 @@ img{
 }
 
 .button--flex{
-    display: inline-flex;
-    align-items: center;
+    display: inline-block;
+    margin-right: 5px;
 }
 /*==================== ABOUT ====================*/
 .about__description{
@@ -387,6 +387,7 @@ img{
 .about__buttons{
     display: flex;
     justify-content: center;
+   
 }
 
 /*==================== SKILLS ====================*/
